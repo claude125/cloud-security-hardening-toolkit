@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=99999&color=00E5FF&center=true&vCenter=true&width=800&height=80&lines=☁️+Cloud+Security+Hardening+Toolkit" alt="title" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=99999&color=7d8590&center=true&vCenter=true&width=800&height=35&lines=Automated+CIS+Benchmark+Enforcement+for+AWS+%26+Azure+%7C+Dockerized" alt="subtitle" />
 
