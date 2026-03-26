@@ -337,7 +337,3 @@ click>=8.1.0
 🔗 [LinkedIn](https://linkedin.com/in/dusengimana-claude) | [GitHub](https://github.com/claude125)
 
 ---
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
